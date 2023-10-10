@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  header {
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  nav {
+    float: right;
+  }
+  
+  nav a {
+    text-decoration: none;
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  footer {
+    background-color: #ccc;
+    padding: 20px;
+    text-align: center;
+  }
